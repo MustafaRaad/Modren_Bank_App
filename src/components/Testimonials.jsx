@@ -1,10 +1,10 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-const Testomonials = () => {
+const Testimonials = () => {
   return (
-    <div>Testomonials</div>
+    <div>Testimonials</div>
   )
 }
 
-export default Testomonials
+export default Testimonials
