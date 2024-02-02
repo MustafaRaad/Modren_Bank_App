@@ -1,8 +1,8 @@
 {
-  "homepage": "https://MustafaRaad.github.io/Modren_Bank_App",
+  "homepage": "https://mustafaraad.github.io/Modren_Bank_App",
   "name": "modren_bank_app",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
