@@ -14,7 +14,7 @@ const CardDeal = () => (
         aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
       </p>
 
-      <Button styles={`mt-10`} />
+      <Button styles={`mt-10`} text="Get Started" />
     </div>
 
     <div className={layout.sectionImg}>
