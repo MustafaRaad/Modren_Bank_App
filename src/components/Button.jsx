@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 const Button = ({ styles, text }) => (
   <button
     type="button"
@@ -6,5 +8,9 @@ const Button = ({ styles, text }) => (
     {text}
   </button>
 );
+Button.propTypes = {
+  styles: PropTypes.string,
+  text: PropTypes.string.isRequired,
+};
 
 export default Button;
